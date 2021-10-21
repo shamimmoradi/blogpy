@@ -7,3 +7,8 @@ db.sqlite3
 
 #migrations
 blog/migrations
+ 
+# static files
+files/
+# vsc stff
+.vscode/
