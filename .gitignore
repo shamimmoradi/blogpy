@@ -10,5 +10,8 @@ blog/migrations
  
 # static files
 files/
+staticfiles/
+
+
 # vsc stff
 .vscode/
